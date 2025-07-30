@@ -2,11 +2,7 @@
 
 A stunning, modern birthday countdown and celebration website with **real-time countdown**, **personalized messages**, and **beautiful animations**! Built with React and styled with a gorgeous pink sweet theme.
 
-![WishClock Demo](screenshots/countdown.png)
 
-## 🌟 **Live Demo**
-
-Visit the live website: [https://birthday-wisher.netlify.app/](https://birthday-wisher.netlify.app/)
 
 ## 🚀 **Key Features**
 
@@ -208,16 +204,7 @@ src/
 - 📘 **Facebook birthday events**
 - 🐦 **Twitter birthday announcements**
 
-## 🎉 **Screenshots**
 
-### Countdown Page
-![Countdown](screenshots/countdown.png)
-
-### Birthday Celebration
-![Birthday Celebration](screenshots/wishPage.png)
-
-### Generate Link
-![Generate Link](screenshots/generate.png)
 
 ## 🚀 **Quick Start**
 
@@ -255,13 +242,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Fonts** - For the Poppins font
 - **Emoji** - For the beautiful icons
 
-## 📞 **Contact**
 
-- **GitHub**: [@Deep-Codes](https://github.com/Deep-Codes)
-- **Live Demo**: [WishClock](https://birthday-wisher.netlify.app/)
+- **Live Demo**: [WishClock](https://wiishclock.netlify.app/)
 
 ---
 
 **Made with ❤️ and lots of 🎂 by Deep-Codes**
 
-*Updated with modern features and pink sweet theme in 2024! 🌸✨*
+*Updated with modern features and pink sweet theme in 2025! 🌸✨*
