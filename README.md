@@ -247,6 +247,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ and lots of 🎂 by Deep-Codes**
 
 *Updated with modern features and pink sweet theme in 2025! 🌸✨*
